@@ -25,6 +25,7 @@
 
 requires [Node.js](https://nodejs.org/) v18.16.0 to run.
 
+- Pastikan Anda telah menginstal Node.js dan TypeScript sebelum menjalankan program ini
 - copy / clone github repository project ini
 - lalu buka dalam text editor anda
 - pastikan anda sudah berada di dalam root folder projectnya
