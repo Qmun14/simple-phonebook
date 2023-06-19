@@ -25,21 +25,21 @@
 
 requires [Node.js](https://nodejs.org/) v18.16.0 to run.
 
-- copy / clone github repository
+- copy / clone github repository project ini
 - lalu buka dalam text editor anda
+- pastikan anda sudah berada di dalam root folder projectnya
+
+```sh
+cd simple-phonebook
+```
+
 - install semua dependencies yang dibutuhkan dengan menjalankan perintah dibawah dalam terminal CLI anda:
 
 ```
 npm install
 ```
 
-Pastikan Anda telah menginstal Node.js dan TypeScript sebelum menjalankan program ini, lalu masuk kedalam folder project-nya:
-
-```sh
-cd simple-phonebook
-```
-
-lalu jalankan di script lewat terminal anda :
+- lalu jalankan aplikasinya lewat terminal dengan perintah di bawah ini :
 
 ```
 npm run start
